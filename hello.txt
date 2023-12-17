@@ -1,3 +1,4 @@
 hello Coco! hello git!
 hello Yuri! hello Ayano!
 version hot-fix 1.0 hot-fix test
+remote edit test01
